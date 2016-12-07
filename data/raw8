@@ -1,0 +1,83 @@
+
+
+	<html>
+	<head>
+		<title>Expanded Context</title>
+		<meta http-equiv="Content-Type" Content="text/html;charset=utf-8"/>
+		<link rel="stylesheet" href="eanc.css" type="text/css" />
+		<script language="JavaScript" src="js/utils.js"></script>
+		<script language="JavaScript" src="js/results.js"></script>
+		<script language="JavaScript" src="js/urlprocessor.js"></script>
+			<script language="javascript">
+var GLOBAL_VARS = new Array();
+GLOBAL_VARS["interface_language"] = "en";
+GLOBAL_VARS["search_language"] = "tatar";
+GLOBAL_VARS["contexts_output_language"] = "tatar";
+</script>	</head>
+
+	<body style="padding:15px" onLoad="MM_preloadImages('images/hghlt_lt.png','images/hghlt_border_top_dark.png','images/hghlt_border_top.png','images/hghlt_rt.png','images/hghlt_border_left.png','images/hghlt_border_right.png','images/hghlt_lb.png','images/hghlt_border_bottom_dark.png','images/hghlt_border_bottom.png','images/hghlt_rb.png','images/px.png');ContextResize();"><center>
+	<table cellpadding='0' cellspacing='0' border='0' id="content_table" class="search_info"><tr><td colspan='2'>
+
+	<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<tr><td><table border="0" width="100%" cellpadding="0" cellspacing="0" class="results_header" height="39"><tr>
+<td style="padding-right:0px;width:1px;">1.</td>
+<td now="" rap="nowrap">
+<b>ТАШКЫННАР. ДАУЛЫ КӨННӘР&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<nobr>1937-1948&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</nobr>
+</td>
+</tr></table></td></tr>
+<tr><td style="padding: 3px 10px;">
+<span onmouseover="popup(this,['түз'],['V'],['ACT,PST_DEF,1SG'],[''],['']);">түздем</span>. <span onmouseover="popup(this,['ак','актык'],['V','ADJ'],['ACT,PST_DEF,1PL',''],['',''],['','']);">Актык</span> <span onmouseover="popup(this,['ат'],['N'],['SG,POSS_1SG,ACC'],[''],['']);">атымны</span>, <span onmouseover="popup(this,['бердәнбер'],['N'],['NOM,SG'],[''],['']);">бердәнбер</span> <span onmouseover="popup(this,['сыер'],['N'],['SG,POSS_1SG,ACC'],[''],['']);">сыерымны</span> <span onmouseover="popup(this,['ал','алып'],['V','N'],['ACT,ADVV_ACC','NOM,SG'],['',''],['','']);">алып</span>, <span onmouseover="popup(this,['тормыш'],['N'],['SG,POSS_1SG,ACC'],[''],['']);">тормышымны</span> <span onmouseover="popup(this,['җимер'],['V'],['ACT,PST_DEF,2PL'],[''],['']);">җимердегез</span>. <span onmouseover="popup(this,['түз'],['V'],['ACT,PST_DEF,1SG'],[''],['']);">түздем</span>. <span onmouseover="popup(this,['ал','алма'],['V','N'],['ACT','NOM,SG'],['',''],['','']);">Алма</span> <span onmouseover="popup(this,['чәчәк','чәчәк'],['N','N'],['NOM,SG,POSS_3SG,SIM_1','NOM,SG,POSS_3SG,SIM_1'],['',''],['','']);">чәчәгедәй</span> <span onmouseover="popup(this,['кыз'],['N'],['SG,POSS_1SG,ACC'],[''],['']);">кызымны</span> <span onmouseover="popup(this,['алда'],['V'],['ACT,ADVV_ACC'],[''],['']);">алдап</span>, <span onmouseover="popup(this,['намус'],['N'],['SG,POSS_3SG,ABL'],[''],['']);" class="result1">намусыннан</span> <span onmouseover="popup(this,['көл'],['V'],['ACT,PST_DEF,3PL'],[''],['']);">көлделәр</span>. <span onmouseover="popup(this,['ул','ул'],['N','PN'],['SG,DIR','3SG,DIR'],['',''],['','']);">аңа</span> <span onmouseover="popup(this,['да'],['CNJ'],[''],[''],['']);">да</span> <span onmouseover="popup(this,['түз'],['V'],['ACT,PST_DEF,1SG'],[''],['']);">түздем</span>. <span onmouseover="popup(this,['ул','ул'],['N','PN'],['PL,POSS_1SG,GEN','3SG,PL,POSS_1SG,GEN'],['',''],['','']);">Улларымның</span> <span onmouseover="popup(this,[],[],[],[],[]);">берсен</span> <span onmouseover="popup(this,['каторга'],['N'],['SG,DIR'],[''],['']);">каторгага</span>, <span onmouseover="popup(this,['ике'],['NUM'],['NUM_ORD,POSS_3SG,ACC'],[''],['']);">икенчесен</span> <span onmouseover="popup(this,['кара','кара','кара'],['V','N','ADJ'],['ACT','NOM,SG',''],['','',''],['','','']);">кара</span> <span onmouseover="popup(this,['кабер'],['N'],['SG,DIR'],[''],['']);">кабергә</span> <span onmouseover="popup(this,['тык'],['V'],['ACT,PST_DEF,3PL'],[''],['']);">тыктылар</span>. <span onmouseover="popup(this,[],[],[],[],[]);">Мирвәли</span> <span onmouseover="popup(this,['бәбкә'],['N'],['NOM,SG,POSS_1SG'],[''],['']);">бәбкәм</span> <span onmouseover="popup(this,[],[],[],[],[]);">әйтмешли</span>, <span onmouseover="popup(this,['тел','телем'],['N','N'],['SG,POSS_1SG,ACC','SG,ACC'],['',''],['','']);">телемне</span> <span onmouseover="popup(this,['аркылы'],['ADJ'],[''],[''],['']);">аркылы</span> <span onmouseover="popup(this,['тешлә','теш','теш'],['V','N','N'],['ACT,ADVV_ACC','NOM,SG,NUM_APPR','NOM,SG,DISTR'],['','',''],['','','']);">тешләп</span> <span onmouseover="popup(this,['бул'],['V'],['ACT,3SG'],[''],['']);">булса</span> <span onmouseover="popup(this,['да'],['CNJ'],[''],[''],['']);">да</span>, <span onmouseover="popup(this,['ул','ул'],['N','PN'],['SG,DIR','3SG,DIR'],['',''],['','']);">аңа</span> <span onmouseover="popup(this,['да'],['CNJ'],[''],[''],['']);">да</span> <span onmouseover="popup(this,['түз'],['V'],['ACT,PST_DEF,1SG'],[''],['']);">түздем</span>. </td></tr>
+</table><br>
+	
+
+	
+			<DIV ID="dek" CLASS="dek"><table border=0><tr><td id="popup_right"></td><td id="popup_bottom"></td></tr></table></DIV>
+					<script language="javascript" src="js/popup_highlightion.js"></script>
+
+	</td></tr>
+	<tr><td align="center" colspan='2'>
+	<input type="button" onClick="window.close()" value="   Ok   ">
+			<br><br>
+	</td></tr>
+	<tr>
+	<td>
+		</td>
+		<td align="right">
+				
+								
+				<a href="context.php?doc_id=1233&start_sent_no=&end_sent_no=&found1=3377.5&query=sid=64566&page=1&search_language=tatar&interface_language=en&contexts_output_language=tatar&sentences_per_enlarged_occurrence=3&print=1">Print version</a> | 
+				<a href="context.php?doc_id=1233&start_sent_no=&end_sent_no=&found1=3377.5&query=sid=64566&page=1&search_language=tatar&interface_language=en&contexts_output_language=tatar&sentences_per_enlarged_occurrence=3&print=1&save2file=1">Save to file</a>
+				
+				</td></tr>
+	</table>
+	</center>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter26659557 = new Ya.Metrika({id:26659557,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/26659557" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+	</body>
+    <raw>түздем. Актык атымны, бердәнбер сыерымны алып, тормышымны җимердегез. түздем. Алма чәчәгедәй кызымны алдап, намусыннан көлделәр. аңа да түздем. Улларымның берсен каторгага, икенчесен кара кабергә тыктылар. Мирвәли бәбкәм әйтмешли, телемне аркылы тешләп булса да, аңа да түздем.</raw>
+</html>
+

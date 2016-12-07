@@ -1,0 +1,83 @@
+
+
+	<html>
+	<head>
+		<title>Expanded Context</title>
+		<meta http-equiv="Content-Type" Content="text/html;charset=utf-8"/>
+		<link rel="stylesheet" href="eanc.css" type="text/css" />
+		<script language="JavaScript" src="js/utils.js"></script>
+		<script language="JavaScript" src="js/results.js"></script>
+		<script language="JavaScript" src="js/urlprocessor.js"></script>
+			<script language="javascript">
+var GLOBAL_VARS = new Array();
+GLOBAL_VARS["interface_language"] = "en";
+GLOBAL_VARS["search_language"] = "tatar";
+GLOBAL_VARS["contexts_output_language"] = "tatar";
+</script>	</head>
+
+	<body style="padding:15px" onLoad="MM_preloadImages('images/hghlt_lt.png','images/hghlt_border_top_dark.png','images/hghlt_border_top.png','images/hghlt_rt.png','images/hghlt_border_left.png','images/hghlt_border_right.png','images/hghlt_lb.png','images/hghlt_border_bottom_dark.png','images/hghlt_border_bottom.png','images/hghlt_rb.png','images/px.png');ContextResize();"><center>
+	<table cellpadding='0' cellspacing='0' border='0' id="content_table" class="search_info"><tr><td colspan='2'>
+
+	<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<tr><td><table border="0" width="100%" cellpadding="0" cellspacing="0" class="results_header" height="39"><tr>
+<td style="padding-right:0px;width:1px;">1.</td>
+<td now="" rap="nowrap">
+<b>Әдәби уйланулардан фрагментлар&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>ГАРАЙ РАХИМ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<nobr>2001&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</nobr>
+</td>
+</tr></table></td></tr>
+<tr><td style="padding: 3px 10px;">
+<span onmouseover="popup(this,['ян','ян','яндыр','яндыр'],['V','V','V','V'],['CAUS,PST_INDF,1SG','CAUS,1SG','ACT,PST_INDF,1SG','ACT,1SG'],['','','',''],['','','','']);">Яндырганмын</span> <span onmouseover="popup(this,['икән'],['PN'],[''],[''],['']);">икән</span>, <span onmouseover="popup(this,['ди'],['V'],['ACT,ADVV_ACC'],[''],['']);">димәк</span>, <span onmouseover="popup(this,['мин'],['PN'],['1SG'],[''],['']);">мин</span> <span onmouseover="popup(this,['ул','ул'],['N','PN'],['NOM,SG','3SG'],['',''],['','']);">ул</span> <span onmouseover="popup(this,['шигырь'],['N'],['PL,ABL'],[''],['']);">шигырьләрдән</span> <span onmouseover="popup(this,['канәгать'],['ADJ'],[''],[''],['']);">канәгать</span> <span onmouseover="popup(this,['бул','бул'],['V','V'],['ACT,PST_INDF,1SG','ACT,1SG'],['',''],['','']);">булмаганмын</span>, <span onmouseover="popup(this,['шуңа'],['ADV'],[''],[''],['']);">шуңа</span> <span onmouseover="popup(this,['ян','ян','яндыр','яндыр'],['V','V','V','V'],['CAUS,PST_INDF,1SG','CAUS,1SG','ACT,PST_INDF,1SG','ACT,1SG'],['','','',''],['','','','']);">яндырганмын</span>. <span onmouseover="popup(this,['ә','ә'],['CNJ','ATTR_ABES'],['',''],['',''],['','']);">ә</span> <span onmouseover="popup(this,['үз'],['PN'],['POSS_2SG,ACC'],[''],['']);">үзеңне</span> <span onmouseover="popup(this,['дә'],['CNJ'],[''],[''],['']);">дә</span> <span onmouseover="popup(this,['канәгатьлән','канәгатьләндер'],['V','V'],['CAUS,PST_INDF','ACT,PST_INDF'],['',''],['','']);">канәгатьләндермәгән</span> <span onmouseover="popup(this,['шигырь'],['N'],['PL,ACC'],[''],['']);">шигырьләрне</span> <span onmouseover="popup(this,[],[],[],[],[]);">укучыга</span> <span onmouseover="popup(this,['тә'],['N'],['NOM,SG'],[''],['']);">тәкъдим</span> <span onmouseover="popup(this,['ит'],['V'],['ACT,VN_1'],[''],['']);">итү</span> <span onmouseover="popup(this,['шагыйрь'],['N'],['NOM,SG'],[''],['']);">шагыйрь</span> <span onmouseover="popup(this,['өч','өчен'],['NUM','POST'],['POSS_3SG,ACC',''],['',''],['','']);">өчен</span> <span onmouseover="popup(this,['намус','намус'],['N','N'],['NOM,SG,ATTR_ABES,PSBL','NOM,SG,ATTR_ABES,NMLZ'],['',''],['','']);">намуссызлык</span> <span onmouseover="popup(this,['бул'],['V'],['ACT,FUT_INDF'],[''],['']);">булыр</span> <span onmouseover="popup(this,['и','иде'],['V','HELP_VERB'],['ACT,PST_DEF',''],['',''],['','']);">иде</span>. <span onmouseover="popup(this,['шулай'],['PN'],[''],[''],['']);">Шулай</span> <span onmouseover="popup(this,['да'],['CNJ'],[''],[''],['']);">да</span>. <span onmouseover="popup(this,['шулай'],['PN'],[''],[''],['']);">Шулай</span> <span onmouseover="popup(this,['да'],['CNJ'],[''],[''],['']);">да</span> <span onmouseover="popup(this,['хәзер'],['ADV'],[''],[''],['']);">хәзер</span>, <span onmouseover="popup(this,['берничә'],['PN'],[''],[''],['']);">берничә</span> <span onmouseover="popup(this,['дистә'],['N'],['NOM,SG'],[''],['']);">дистә</span> <span onmouseover="popup(this,['ел'],['N'],['NOM,SG'],[''],['']);">ел</span> <span onmouseover="popup(this,['вакыт'],['N'],['NOM,SG'],[''],['']);">вакыт</span> <span onmouseover="popup(this,['уз','узган'],['V','ADJ'],['ACT,ABL','ABL'],['',''],['','']);">узганнан</span> <span onmouseover="popup(this,['соң'],['ADV'],[''],[''],['']);">соң</span> <span onmouseover="popup(this,['мин'],['PN'],['1SG,POSS_1SG'],[''],['']);">минем</span> <span onmouseover="popup(this,['ул','ул'],['N','PN'],['NOM,SG','3SG'],['',''],['','']);">ул</span> <span onmouseover="popup(this,['дәфтәр'],['N'],['PL,DIR'],[''],['']);" class="result1">дәфтәрләргә</span> <span onmouseover="popup(this,['бер','бер'],['NUM','PN'],['',''],['',''],['','']);">бер</span> <span onmouseover="popup(this,['күз'],['N'],['NOM,SG'],[''],['']);">күз</span> <span onmouseover="popup(this,['кырый'],['N'],['NOM,SG,POSS_1SG'],[''],['']);">кырыем</span> <span onmouseover="popup(this,['белән'],['CNJ'],[''],[''],['']);">белән</span> <span onmouseover="popup(this,['генә'],['POST'],[''],[''],['']);">генә</span> <span onmouseover="popup(this,['бул'],['V'],['ACT,3SG'],[''],['']);">булса</span> <span onmouseover="popup(this,['да'],['CNJ'],[''],[''],['']);">да</span> <span onmouseover="popup(this,['кара'],['V'],['ACT,ADVV_ACC'],[''],['']);">карап</span> <span onmouseover="popup(this,['ал'],['V'],['ACT,OBL,POSS_1SG'],[''],['']);">аласым</span> <span onmouseover="popup(this,['кил'],['V'],['ACT'],[''],['']);">килә</span>. <span onmouseover="popup(this,['ни'],['PN'],['PL'],[''],['']);">Ниләр</span> <span onmouseover="popup(this,['яз'],['V'],['ACT,PST_DEF'],[''],['']);">язды</span> <span onmouseover="popup(this,['икән'],['PN'],[''],[''],['']);">икән</span> <span onmouseover="popup(this,['ул','ул','анда'],['N','PN','ADV'],['SG,LOC','3SG,LOC',''],['','',''],['','','']);">анда</span> <span onmouseover="popup(this,[],[],[],[],[]);">12</span>. <span onmouseover="popup(this,[],[],[],[],[]);">13</span> <span onmouseover="popup(this,['яшь','яшь','яшь','яшь'],['N','N','ADJ','ADJ'],['NOM,SG,PSBL','NOM,SG,NMLZ','PSBL','NMLZ'],['','','',''],['','','','']);">яшьлек</span> <span onmouseover="popup(this,['малай'],['N'],['NOM,SG'],[''],['']);">малай</span>? <span onmouseover="popup(this,['ләкин'],['CNJ'],[''],[''],['']);">Ләкин</span> <span onmouseover="popup(this,['хәзер'],['ADV'],[''],[''],['']);">хәзер</span> <span onmouseover="popup(this,[],[],[],[],[]);">болай</span> <span onmouseover="popup(this,['уйла','уй'],['V','N'],['ACT','PL,DIR'],['',''],['','']);">уйларга</span> <span onmouseover="popup(this,['соң'],['ADV'],[''],[''],['']);">соң</span> <span onmouseover="popup(this,['инде'],['CNJ'],[''],[''],['']);">инде</span>. </td></tr>
+</table><br>
+	
+
+	
+			<DIV ID="dek" CLASS="dek"><table border=0><tr><td id="popup_right"></td><td id="popup_bottom"></td></tr></table></DIV>
+					<script language="javascript" src="js/popup_highlightion.js"></script>
+
+	</td></tr>
+	<tr><td align="center" colspan='2'>
+	<input type="button" onClick="window.close()" value="   Ok   ">
+			<br><br>
+	</td></tr>
+	<tr>
+	<td>
+		</td>
+		<td align="right">
+				
+								
+				<a href="context.php?doc_id=5666&start_sent_no=&end_sent_no=&found1=194.12&query=page=3&sid=64566&search_language=tatar&interface_language=en&contexts_output_language=tatar&sentences_per_enlarged_occurrence=3&print=1">Print version</a> | 
+				<a href="context.php?doc_id=5666&start_sent_no=&end_sent_no=&found1=194.12&query=page=3&sid=64566&search_language=tatar&interface_language=en&contexts_output_language=tatar&sentences_per_enlarged_occurrence=3&print=1&save2file=1">Save to file</a>
+				
+				</td></tr>
+	</table>
+	</center>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter26659557 = new Ya.Metrika({id:26659557,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/26659557" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+	</body>
+    <raw>Яндырганмын икән, димәк, мин ул шигырьләрдән канәгать булмаганмын, шуңа яндырганмын. ә үзеңне дә канәгатьләндермәгән шигырьләрне укучыга тәкъдим итү шагыйрь өчен намуссызлык булыр иде. Шулай да. Шулай да хәзер, берничә дистә ел вакыт узганнан соң минем ул дәфтәрләргә бер күз кырыем белән генә булса да карап аласым килә. Ниләр язды икән анда 12. 13 яшьлек малай? Ләкин хәзер болай уйларга соң инде.</raw>
+</html>
+
